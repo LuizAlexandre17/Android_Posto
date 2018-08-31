@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">APP_PostoGasolina</string>
+    <string name="main_info_quantidade">Quantidade de Gasolina</string>
+    <string name="main_info_insira">Insira a Quantidade</string>
+    <string name="main_info_prop">Proporção:</string>
+    <string name="main_info_proptxt">Ex : 40:1</string>
+    <string name="main_info_calcular">Calcular Quantidade</string>
+    <string name="main_info_consultar">Consultar a Tabela</string>
+
+    <string name="tabela_oleo_1">40:1 - Oleo de Barco Usado</string>
+    <string name="tabela_oleo_2">25:1 - Oleo de Barco Novo</string>
+    <string name="tabela_oleo_3">20:1 - Oleo de Moto</string>
+
+
+
+
+</resources>
